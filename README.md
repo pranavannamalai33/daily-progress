@@ -1,15 +1,19 @@
-# Daily Progress
+# Daily Progress 🚀
 
-My daily learning log. One small step every day.
+My daily coding journey – learning programming step by step and building small projects.
 
-## What is inside
-- `Day-01.md`: my first day on GitHub
+## 📅 Progress Log
 
-## What I am learning
-- Git and GitHub
-- Linux basics
-- Programming
+| Day | Topic | Files |
+|-----|-------|-------|
+| 1 | Getting started with GitHub | [Notes](Day-01.md) |
+| 2 | README basics | [Notes](Day-02.md) |
+| 3 | Planning & setup | [Notes](Day-03.md) |
+| 4 | Python simple calculator | [Code](Day-4%20calculator.py) · [Notes](Day-4.md) |
 
-## Rules for this repo
-- Only real work goes here
-- One new file or one improvement every day
+## 🎯 Goal
+Learn one new thing every day and build real projects.
+
+## 🛠️ Learning
+- Python
+- Git & GitHub
