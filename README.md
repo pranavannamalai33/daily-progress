@@ -1,19 +1,36 @@
-# Daily Progress 🚀
+# 🚀 Daily Progress
 
 My daily coding journey – learning programming step by step and building small projects.
 
 ## 📅 Progress Log
 
 | Day | Topic | Files |
-|-----|-------|-------|
-| 1 | Getting started with GitHub | [Notes](Day-01.md) |
-| 2 | README basics | [Notes](Day-02.md) |
-| 3 | Planning & setup | [Notes](Day-03.md) |
-| 4 | Python simple calculator | [Code](Day-4%20calculator.py) · [Notes](Day-4.md) |
+|---|---|---|
+| 1 | Getting started with GitHub | Notes |
+| 2 | README basics | Notes |
+| 3 | Planning & setup | Notes |
+| 4 | Python Simple Calculator | [Code](Day-4%20calculator.py) · [Notes](Day-4.md) |
+| 5 | More coming soon! | - |
+| 6 | Student Result Checker | [Code](Day-06.py) |
+| 7 | Password Generator | [Code](day-07.py) |
+| 8 | Number Guessing Game | [Code](day-08.py) |
 
 ## 🎯 Goal
+
 Learn one new thing every day and build real projects.
 
-## 🛠️ Learning
+## 🛠️ Technologies
+
 - Python
-- Git & GitHub
+- Git
+- GitHub
+
+## 📈 My Mission
+
+- Code every day.
+- Build small projects.
+- Improve problem-solving skills.
+- Learn new technologies.
+---
+
+**One day at a time. One commit at a time.** 💻🔥
