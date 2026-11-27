@@ -1,4 +1,4 @@
-Day 05 – Learning Log
+ Day 05 – Learning Log
 
 Status: Day Off
 
